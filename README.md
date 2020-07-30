@@ -1,8 +1,6 @@
 ### Hi there 👋
 
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on [Doctors Scheduler](https://github.com/ratrevorrow/doctors_scheduler) and [RecommendME](https://github.com/ratrevorrow/RecommendMe)
 - 🌱 I’m currently learning ReactJS, Django, PostgreSQL
 
