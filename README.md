@@ -1,8 +1,18 @@
 ### Hi there 👋
 
+<p align="">
+	Catch me on <a href="https://www.linkedin.com/in/richard-trevorrow"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> to learn more about my background.
+</p>
 
-- 🔭 I’m currently working on [Doctors Scheduler](https://github.com/ratrevorrow/doctors_scheduler) and [RecommendME](https://github.com/ratrevorrow/RecommendMe)
-- 🌱 I’m currently learning ReactJS, Django, PostgreSQL
+Side projects that I'm currently working on:
+
+- [Doctors Scheduler](https://github.com/ratrevorrow/doctors_scheduler)
+- [RecommendME](https://github.com/ratrevorrow/RecommendMe)
+
+Tech stack includes:
+- ReactJS on frontend
+- Django on backend
+- PostgreSQL on DB
 
 <!--
 **ratrevorrow/ratrevorrow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
