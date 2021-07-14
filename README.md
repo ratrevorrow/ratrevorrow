@@ -4,6 +4,8 @@
 	Catch me on <a href="https://www.linkedin.com/in/richard-trevorrow"><img src="https://img.shields.io/badge/LinkedIn--_.svg?style=social&logo=linkedin" alt="LinkedIn"></a> to learn more about my background.
 </p>
 
+ ![visitors](https://visitor-badge.glitch.me/badge?page_id=ratrevorrow)
+
 <!-- Side projects that I'm currently working on:
 
 - [Doctors Scheduler](https://github.com/ratrevorrow/doctors_scheduler)
