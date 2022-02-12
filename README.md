@@ -60,3 +60,5 @@ Tech stack includes:
 
 <img alt="IntelliJ" src="https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white" /><img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" /><img alt="VSCode" src="https://img.shields.io/badge/VIM-%2311AB00.svg?style=for-the-badge&logo=vim&logoColor=white" />
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
